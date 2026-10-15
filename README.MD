@@ -1,48 +1,64 @@
 <p align="center">
-  <img src="./banner.svg" alt="Luiz Zordan - Banner" width="100%">
+  <img src="./banner.svg" alt="ZORDAN.dev - Programador, AI Builder, Vibe Designer" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://zordan-dev2.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-zordan--dev2.vercel.app-00f0ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0326" alt="Portfólio"></a>
-  <img src="https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL-39ff14?style=for-the-badge&labelColor=0d0326" alt="Status">
-  <img src="https://komarev.com/ghpvc/?username=biruupy&style=for-the-badge&color=ff2bd6&label=VISITAS" alt="Visitas">
+  <a href="https://zordan-dev2.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-zordan--dev2.vercel.app-7cf5c8?style=flat-square&labelColor=0b0f1a" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-mautone-zordan-0243a236b"><img src="https://img.shields.io/badge/linkedin-luiz%20zordan-8b7cff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0f1a" alt="LinkedIn"></a>
+  <a href="mailto:henriqueluiz.zordan@gmail.com"><img src="https://img.shields.io/badge/e--mail-henriqueluiz.zordan@gmail.com-7cf5c8?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0f1a" alt="E-mail"></a>
+  <a href="https://wa.me/5511993961259"><img src="https://img.shields.io/badge/whatsapp-chamar-8b7cff?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0b0f1a" alt="WhatsApp"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Luiz+Henrique!+%F0%9F%91%8B;Transformo+ideias+em+c%C3%B3digo;Python+%7C+Web+%7C+Automa%C3%A7%C3%A3o" alt="Typing SVG">
-</p>
+## `> whoami`
 
-## 👨‍💻 Sobre mim
+Construo sistemas digitais com **visão**. Aprendo rápido, amplio o escopo técnico quando o problema exige e conecto **código, operação e automação** para entregar produtos web claros e intencionais.
 
-Sou o **Luiz Henrique Zordan**, desenvolvedor apaixonado por criar soluções que resolvem problemas reais.
-Curto automatizar o que é repetitivo, escrever código limpo e construir produtos que as pessoas realmente usam.
+Não faço só telas: faço comportamento digital.
 
-> _(Em breve: seção personalizada com base no meu currículo.)_
+## `> stack`
 
-## 🛠️ Stack
+| Camada | Tecnologias |
+| :-- | :-- |
+| **Front-end** | TypeScript · React · Next.js · Tailwind CSS · animação e motion |
+| **Back-end** | Node.js · APIs REST · autenticação · integrações · lógica de servidor |
+| **Dados** | PostgreSQL · Supabase · modelagem de dados · dashboards · BI · Excel avançado |
+| **Automação** | Scripts · workflows operacionais · Lua (FiveM) |
+| **Cloud & DevOps** | Git · GitHub · Vercel · deploy, builds e ambientes |
+| **IA** | Claude · ChatGPT · Gemini · Lovable · prompt engineering · desenvolvimento assistido por IA |
+| **Design** | Direção de UI · design systems · identidade visual · glassmorphism · motion |
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
 
-## 📊 Estatísticas
+## `> projects`
+
+| Projeto | O que é | Status |
+| :-- | :-- | :-- |
+| **Premium Coffee Store** | E-commerce de café premium: marca, checkout, produto e desenvolvimento | 🟡 Em andamento |
+| **Spreadsheet Flow** | Sistema interno para organizar fluxos corporativos baseados em planilhas, com governança | 🟡 Em andamento |
+| **ZORDAN.dev System** | Meu portfólio tratado como produto, com design system e motion próprios | 🟢 Contínuo |
+| **FiveM / Lua Systems** | Scripts, lógica e integrações para ambientes dedicados | 🧪 Experimental |
+| **Pricing Calculator** | SaaS para simular custos, taxas, margens e cenários | 💡 Conceito |
+| **Micro SaaS Retrospectivas** | Registro e revisão de ciclos de trabalho | 💡 Conceito |
+| **Site corporativo (geradores)** | Presença digital e SEO básico para empresa de geradores | ✅ Entregue |
+
+## `> languages`
+
+🇧🇷 Português (fluente) · 🇺🇸 Inglês (avançado) · 🇪🇸 Espanhol (avançado) · 🇯🇵 Japonês (estudando)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biruupy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0326" alt="Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruupy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0326" alt="Top Langs">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=biruupy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=7cf5c8&icon_color=8b7cff" alt="GitHub stats">
 </p>
 
-## 🌐 Vamos conversar
-
-- 🚀 Portfólio: [zordan-dev2.vercel.app](https://zordan-dev2.vercel.app)
-- 📫 E-mail: luizhenrique.mautone@gmail.com
-
-<p align="center">
-  <sub>Feito com ☕ e muito código.</sub>
-</p>
+<p align="center"><sub>🌐 <a href="https://zordan-dev2.vercel.app">zordan-dev2.vercel.app</a></sub></p>
