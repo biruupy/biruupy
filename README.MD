@@ -19,15 +19,19 @@ Não faço só telas: faço comportamento digital.
 
 | Camada | Tecnologias |
 | :-- | :-- |
+| **Linguagens** | Python · Java · TypeScript · JavaScript · Lua · SQL |
 | **Front-end** | TypeScript · React · Next.js · Tailwind CSS · animação e motion |
-| **Back-end** | Node.js · APIs REST · autenticação · integrações · lógica de servidor |
+| **Back-end & APIs** | Node.js · Python · Java · APIs REST · autenticação · integrações · lógica de servidor |
 | **Dados** | PostgreSQL · Supabase · modelagem de dados · dashboards · BI · Excel avançado |
-| **Automação** | Scripts · workflows operacionais · Lua (FiveM) |
+| **Automação** | Python · scripts · workflows operacionais · Lua (FiveM) |
 | **Cloud & DevOps** | Git · GitHub · Vercel · deploy, builds e ambientes |
 | **IA** | Claude · ChatGPT · Gemini · Lovable · prompt engineering · desenvolvimento assistido por IA |
 | **Design** | Direção de UI · design systems · identidade visual · glassmorphism · motion |
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=7cf5c8" alt="REST APIs">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
